@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lemuria</h1>
-<h3 align="center">A passionate frontend,backend developer and machine learning engineer from Kenya</h3>
+<h3 align="center">A passionate frontend,backend developer and machine learning engineer</h3>
 
 - 🔭 I’m currently working on **property managment software using react and django**
 
