@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Hyperledger fabric,Deep reinforment learning,Rust and Go programming**
 
-- 👯 I’m looking to collaborate on **Reinforcement learning for surveillance**
+- 👯 I’m looking to collaborate on **Artificial intelligence projects with postiive impact on communities*
 
 - 👨‍💻 All of my projects are available at [https://github.com/dev30k](https://github.com/dev30k)
 
