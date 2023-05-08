@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev30k&label=Profile%20views&color=0e75b6&style=flat" alt="dev30k" /> </p>
 
-- 🌱 I’m currently learning **Hyperledger fabric,Deep reinforment learning,Rust and Go programming**
+- 🌱 I’m currently learning **Hyperledger fabric,Deep reinforment learning,Rust,Elixir and Go programming**
 
 - 👯 I’m looking to collaborate on **Artificial intelligence projects with postiive impact on communities*
 
